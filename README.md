@@ -124,17 +124,10 @@ My work often involves **architecture design, performance optimization, and buil
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=durlav-bose&show_icons=true)
-
----
-
 ## 📫 Connect
 
 Portfolio: https://durlavbose.vercel.app/  
-LinkedIn: https://linkedin.com/in/durlavbose13  
-GitHub: https://github.com/durlav-bose  
+LinkedIn: https://linkedin.com/in/durlavbose13
 
 ---
 
