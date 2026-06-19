@@ -2,7 +2,7 @@
 
 Full-stack engineer focused on building scalable SaaS platforms, e-commerce systems, cloud-native applications, and AI-powered products.
 
-Over the past 4+ years, I've designed and delivered production systems across e-commerce, print-on-demand, project management, ed-tech, analytics, and enterprise automation. My work spans everything from system architecture and cloud infrastructure to frontend experiences and backend services.
+Over the past 5+ years, I've designed and delivered production systems across e-commerce, print-on-demand, project management, ed-tech, analytics, and enterprise automation. My work spans everything from system architecture and cloud infrastructure to frontend experiences and backend services.
 
 I enjoy solving complex engineering problems involving scalability, performance, distributed systems, integrations, and automation.
 
@@ -50,28 +50,28 @@ Liquid • Shopify Plus • NetSuite ERP Integrations
 ## Data
 
 PostgreSQL • MongoDB • Redis
-DynamoDB • Redshift • BigQuery
+DynamoDB • Redshift • BigQuery •
 Vector Databases
 
 ## Cloud & DevOps
 
-AWS (Lambda, EC2, S3, Fargate, SQS, SNS)
-GCP (Cloud Run, BigQuery)
-Docker • Terraform • Ansible
+AWS (Lambda, EC2, S3, Fargate, SQS, SNS) •
+GCP (Cloud Run, BigQuery) •
+Docker • Terraform • Ansible •
 GitHub Actions • CI/CD
 
 ## AI / LLM
 
-LLM Applications • RAG
-Embeddings • Vector Databases
-LangChain • LangGraph
+LLM Applications • RAG •
+Embeddings • Vector Databases •
+LangChain • LangGraph •
 Agentic Workflows
 
 ## Automation & Data Processing
 
-Puppeteer • Cheerio
-Web Scraping Pipelines
-Data Processing Systems
+Puppeteer • Cheerio •
+Web Scraping Pipelines •
+Data Processing Systems •
 Workflow Automation
 
 ---
@@ -121,8 +121,6 @@ Scalable project and task management platform designed for high concurrency.
 * Team chat and file sharing
 * Productivity analytics
 * Workflow automation
-
-**Stack:** Vue.js, Nuxt.js, NestJS, MongoDB, Redis, AWS
 
 ---
 
